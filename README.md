@@ -17,6 +17,11 @@
 * Click on Run All\
     ![Run the code](/img/run_all.png "Run the code")
 
+### Welcome screen
+Colourful welcome message along with application version will be  printed.\
+![Welcome message](/img/env_selection.png "Welcome message")
+
+
 ### Main menu
 
 Once the application is started Visual Studio will ask you to select on of the following options:
@@ -28,7 +33,7 @@ Once the application is started Visual Studio will ask you to select on of the f
 | s   | Will search for a book in your library.                                                          |
 | q   | Will safely quit the application by saving book list to books.csv and review list to reviews.csv |
 
-![Main Menu](/img/main_menu.png "Main Menu")\
+![Main Menu](/img/welcome_message.png "Main Menu")\
 
 Note: As any application you should be able to quit using CTRL+C but it is not recommended as might lose/corrupt your data
 
@@ -85,7 +90,7 @@ Note: As any application you should be able to quit using CTRL+C but it is not r
 ## Sample data
 books_samle.csv is already uploaded in the project in sample_data folder just copy it to the main/working folder and then rename it to books.csv and run the application.
 
-## Possible area of improvement
+## Possible areas of improvement
 
 * List all reviews.
 * Search for reviews by title.

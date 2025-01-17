@@ -19,7 +19,7 @@
 
 ### Welcome screen
 Colourful welcome message along with application version will be  printed.\
-![Welcome message](/img/env_selection.png "Welcome message")
+![Welcome message](/img/welcome_message.png "Welcome message")
 
 
 ### Main menu
@@ -33,9 +33,9 @@ Once the application is started Visual Studio will ask you to select on of the f
 | s   | Will search for a book in your library.                                                          |
 | q   | Will safely quit the application by saving book list to books.csv and review list to reviews.csv |
 
-![Main Menu](/img/welcome_message.png "Main Menu")\
+![Main Menu](/img/main_menu.png "Main Menu")
 
-Note: As any application you should be able to quit using CTRL+C but it is not recommended as might lose/corrupt your data
+\Note: As any application you should be able to quit using CTRL+C but it is not recommended as might lose/corrupt your data
 
 
 ### Add a Book.

@@ -6,12 +6,12 @@
 
 ## How the application works
 ### Start the applcations
-* Open personal_library_manager.ipynb
-![Open relevant jupyter Note book](/img/notebook.png "Working Jupyter notebook")
-* Select python environment you want to use
-![Select the environment](/img/env_selection.png "Working Jupyter notebook")
-* Click on Run All
-![Run the code](/img/env_selection.png "Run the code")
+* Open personal_library_manager.ipynb\
+    ![Open relevant jupyter Note book](/img/notebook.png "Working Jupyter notebook")
+* Select python environment you want to use\
+    ![Select the environment](/img/env_selection.png "Working Jupyter notebook")
+* Click on Run All\
+    ![Run the code](/img/env_selection.png "Run the code")
 
 ### Main menu
 
